@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/joke-teller-react-app/static/js/main.3c6a3b41.js",
+    "main.js": "/joke-teller-react-app/static/js/main.624de489.js",
     "index.html": "/joke-teller-react-app/index.html",
-    "main.3c6a3b41.js.map": "/joke-teller-react-app/static/js/main.3c6a3b41.js.map"
+    "main.624de489.js.map": "/joke-teller-react-app/static/js/main.624de489.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c6a3b41.js"
+    "static/js/main.624de489.js"
   ]
 }
